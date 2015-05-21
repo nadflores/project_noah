@@ -1,5 +1,5 @@
 require "project_noah/version"
+require "project_noah/api"
 
 module ProjectNoah
-  # Your code goes here...
 end

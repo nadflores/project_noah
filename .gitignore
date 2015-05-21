@@ -13,7 +13,6 @@
 *.a
 mkmf.log
 
-# ignore vim temp files
-.*~
+
 *.swp
-*.swo
+.*~
